@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Roman L.
 =================================================================================================================================
 
+<div aling="centr">
+<a src="Gemini_Generated_Image_7bexi7bexi7bexi7%20(1).png" widht="400"></a>
+</div>
 I'm junior FullStack Dev
 ------------------------
 
