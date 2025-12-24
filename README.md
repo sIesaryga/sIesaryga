@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </div>
 
 
-I'm junior FullStack Dev
+I'm junior Backend Dev
 ------------------------
 
 I am a beginner FullStack Dev. With great capabilities and ambitions. I will be happy to make a compatible project
